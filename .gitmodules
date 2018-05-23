@@ -1,0 +1,3 @@
+[submodule "web/cmshub"]
+	path = web/cmshub
+	url = https://github.com/t0w4r/cmshub
